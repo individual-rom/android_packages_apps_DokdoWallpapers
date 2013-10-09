@@ -12,6 +12,9 @@
     <string name="app_name">독도ROM 배경화면</string>
     <string name="action_apply">적용</string>
     <string name="applying">선택한 배경화면으로 설정하는중입니다</string>
-    <string name="wallpaper_0">첫번째 배경</string>
+    <string name="wallpaper_0">기본 배경화면</string>
+    <string name="wallpaper_1">여의도 불꽃축제</string>
+    <string name="wallpaper_2">서울 풍경</string>
+    <string name="wallpaper_3">서울의 밤</string>
 
 </resources>

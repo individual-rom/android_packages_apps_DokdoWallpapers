@@ -12,6 +12,9 @@
     <string name="app_name">DokDoROM Wallpaper</string>
     <string name="action_apply">Apply</string>
     <string name="applying">Applying selected wallpaper</string>
-    <string name="wallpaper_0">First</string>
+    <string name="wallpaper_0">Default</string>
+    <string name="wallpaper_1">Yeouido fireworks</string>
+    <string name="wallpaper_2">Seoul landscape</string>
+    <string name="wallpaper_3">Night of Seoul</string>
     
 </resources>
