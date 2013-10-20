@@ -13,6 +13,9 @@
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_6</item>
     </string-array>
 
     <string-array name="wallpaper_name" translatable="false">
@@ -20,5 +23,8 @@
         <item>@string/wallpaper_1</item>
         <item>@string/wallpaper_2</item>
         <item>@string/wallpaper_3</item>
+        <item>@string/wallpaper_4</item>
+        <item>@string/wallpaper_5</item>
+        <item>@string/wallpaper_6</item>
     </string-array>
 </resources>

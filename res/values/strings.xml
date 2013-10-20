@@ -13,8 +13,11 @@
     <string name="action_apply">Apply</string>
     <string name="applying">Applying selected wallpaper</string>
     <string name="wallpaper_0">Default</string>
-    <string name="wallpaper_1">Yeouido fireworks</string>
-    <string name="wallpaper_2">Seoul landscape</string>
-    <string name="wallpaper_3">Night of Seoul</string>
+    <string name="wallpaper_1">Dokdo landscape 1</string>
+    <string name="wallpaper_2">Dokdo landscape 2</string>
+    <string name="wallpaper_3">Dokdo landscape 3</string>
+    <string name="wallpaper_4">Yeouido fireworks</string>
+    <string name="wallpaper_5">Seoul landscape</string>
+    <string name="wallpaper_6">Night of Seoul</string>
     
 </resources>
