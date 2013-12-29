@@ -16,6 +16,15 @@
         <item>wallpaper_4</item>
         <item>wallpaper_5</item>
         <item>wallpaper_6</item>
+        <item>wallpaper_7</item>
+        <item>wallpaper_8</item>
+        <item>wallpaper_9</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_15</item>
     </string-array>
 
     <string-array name="wallpaper_name" translatable="false">
@@ -26,5 +35,14 @@
         <item>@string/wallpaper_4</item>
         <item>@string/wallpaper_5</item>
         <item>@string/wallpaper_6</item>
+        <item>@string/wallpaper_7</item>
+        <item>@string/wallpaper_8</item>
+        <item>@string/wallpaper_9</item>
+        <item>@string/wallpaper_10</item>
+        <item>@string/wallpaper_11</item>
+        <item>@string/wallpaper_12</item>
+        <item>@string/wallpaper_13</item>
+        <item>@string/wallpaper_14</item>
+        <item>@string/wallpaper_15</item>
     </string-array>
 </resources>
