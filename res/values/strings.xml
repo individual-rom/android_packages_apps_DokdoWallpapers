@@ -8,7 +8,7 @@
 -->
 
 <resources>
-    <string name="app_name">DokDoROM Wallpaper</string>
+    <string name="app_name">Dokdo Wallpaper</string>
     <string name="action_apply">Apply</string>
     <string name="applying">Applying selected wallpaper</string>
     <string name="wallpaper_0">Default</string>

@@ -9,7 +9,7 @@
 
 <resources>
 
-    <string name="app_name">독도ROM 배경화면</string>
+    <string name="app_name">독도 배경화면</string>
     <string name="action_apply">적용</string>
     <string name="applying">선택한 배경화면으로 설정하는중입니다</string>
     <string name="wallpaper_0">기본 배경화면</string>
