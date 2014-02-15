@@ -98,7 +98,7 @@ public class MainActivity extends FragmentActivity {
                     (LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
             ImageView img = new ImageView(mContext);
             img.setLayoutParams(new ViewGroup.LayoutParams
-                    (ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+                    (ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.MATCH_PARENT));
             img.setImageResource(sWallpapers.get(args.getInt(ARG_SECTION_NUMBER)));
             img.setScaleType(ImageView.ScaleType.CENTER_CROP);
             holder.addView(img);
